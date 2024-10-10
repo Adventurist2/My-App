@@ -13,7 +13,7 @@ This is a simple Todo application that allows users to manage their tasks effici
 
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Express, Node.js, MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
+- **Authentication:** JWT (JSON Web Tokens) and Zod
 - **Styling:** CSS and React Icons
 
 ## Installation
