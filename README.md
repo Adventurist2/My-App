@@ -66,7 +66,13 @@ cd frontend
 ```bash
 npm install
 ```
-3.**Start the frontend application** :
+3.**Create a .env file to store the Api for backend**
+```plaintext
+VITE_PROFILE=http://localhost:3000/user/profile
+VITE_SIGNUP=http://localhost:3000/user/signup
+VITE_LOGIN=http://localhost:3000/user/login
+```
+4.**Start the frontend application** :
 
 ```bash
 npm run dev
